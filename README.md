@@ -1,6 +1,6 @@
 ### Hi there, I'm Yogesh Drall - aka [ydrall][website] 👋
 
-[![Website](https://img.shields.io/website?label=ydrall.github.io&style=for-the-badge&url=https://ydrall.github.io)](https://yogeshdrall.in)
+[![Website](https://img.shields.io/website?label=yogeshdrall.in&style=for-the-badge&url=https://www.yogeshdrall.in)](https://www.yogeshdrall.in)
 
 ## I'm a Software Engineer!!
 
