@@ -1,19 +1,14 @@
 ### Hi there, I'm Yogesh Drall - aka [ydrall][website] 👋
 
-[![Website](https://img.shields.io/website?label=ydrall.github.io&style=for-the-badge&url=https://ydrall.github.io)](https://ydrall.github.io)
+[![Website](https://img.shields.io/website?label=ydrall.github.io&style=for-the-badge&url=https://ydrall.github.io)](https://yogeshdrall.in)
 
 ## I'm a Software Engineer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="ydrall.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ydrall | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ydrall | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 <br />
 
 ### Languages and Tools:
@@ -43,7 +38,7 @@
 - [Generate all unique permuations of an array.](https://ydrall.github.io/2020/02/12/generate-all-unique-permutations-of-array/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://ydrall.github.io/)
+➡️ [more blog posts...](https://blog.yogeshdrall.in/)
 
 ---
 
