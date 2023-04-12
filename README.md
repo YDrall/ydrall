@@ -1,4 +1,4 @@
-### Hi there, I'm Yogesh Drall - aka [ydrall][website] 👋
+### Hi there, I'm Yogesh Drall - aka [ydrall](https://www.yogeshdrall.in) 👋
 
 [![Website](https://img.shields.io/website?label=yogeshdrall.in&style=for-the-badge&url=https://www.yogeshdrall.in)](https://www.yogeshdrall.in)
 
